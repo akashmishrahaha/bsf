@@ -16,7 +16,7 @@ Before creating a new issue, please confirm that an existing issue doesn't alrea
 
 You can engage with the BuildSafe community by:
 
-* Helping other users on [Discord](https://discord.gg/ka2ZgRaP)
+* Helping other users on [Discord](https://discord.gg/xrwYkuFT)
 * Improving documentation
 * Participating in general discussions about technology and Supply Chain Security.
 
@@ -28,7 +28,7 @@ You can contribute to the BuildSafe software by:
 * Fixing bugs
 * Adding new features and capabilities
 
-If you are looking to make a substantial, complex, or wide-sweeping contribution, please engage with us [on Discord](https://discord.gg/ka2ZgRaP) before you begin so we can collaborate with you.
+If you are looking to make a substantial, complex, or wide-sweeping contribution, please engage with us [on Discord](https://discord.gg/xrwYkuFT) before you begin so we can collaborate with you.
 
 ### Steps to Contribute Code
 
@@ -61,4 +61,4 @@ Here is what being a contributor means for you:
 * License all our contributions to the project under the Apache License, Version 2.0
 * Have the legal rights to license our contributions ourselves, or get permission to license them from our employers, clients, or others who may have them
 
-For more information, see the [README](README.md) and feel free to reach out to us [on Discord](https://discord.gg/ka2ZgRaP).
+For more information, see the [README](README.md) and feel free to reach out to us [on Discord](https://discord.gg/xrwYkuFT).
